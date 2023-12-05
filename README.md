@@ -19,11 +19,11 @@ To build and run this app, it is necessary to have [Android Studio](https://deve
 
 ---
 
-4. Open Device Manager click the play button, next to newly created simulator device.
+4. Open Device Manager and click the play button located next to newly created simulator device.
 
 ---
 
-5. Wait for virtual device boot up and run the app by clicking **_Run_** -> **_App_** in top menu bar.
+5. Wait for virtual device to boot up and run the app by clicking **_Run_** -> **_App_** in the top menu bar.
 
 ## Physical device
 
@@ -32,4 +32,4 @@ To build and run this app, it is necessary to have [Android Studio](https://deve
    _Note: If you don't see Developer options, follow the instructions to [enable developer options](https://developer.android.com/studio/run/device#:~:text=the%20instructions%20to-,enable%20developer%20options,-.)._
 
 4. Connect your device via USB
-5. Run the app by clicking **_Run_** -> **_App_** in top menu bar.
+5. Run the app by clicking **_Run_** -> **_App_** in the top menu bar.
