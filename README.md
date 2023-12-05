@@ -1,3 +1,8 @@
+# What is this about?
+This repository contains sources of a program demonstrating issues of non-uniform frame pacing, through colour flickering.
+
+---
+
 # Build instructions
 
 To build and run this app, it is necessary to have [Android Studio](https://developer.android.com/studio) installed, so before proceeding to "actual" building steps, make sure you have it
